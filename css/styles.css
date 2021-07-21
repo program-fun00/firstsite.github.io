@@ -21,3 +21,14 @@ li {
 .k {
   font-size: 50px;
 }
+
+.w {
+  font-size: 30px;
+}
+
+@media (min-width: 0px) {
+  body {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
